@@ -1,0 +1,5 @@
+student_name,book_id,book_name,issue_date,return_date,status
+Ali Khan,B001,Python Crash Course,2026-10-15,,Issued
+Sara Ahmed,B002,Automate the Boring Stuff,2026-10-15,2026-10-15,Returned
+Bilal Raza,B004,Fluent Python,2026-10-15,,Issued
+Ayesha Noor,B004,Fluent Python,2026-10-15,,Issued

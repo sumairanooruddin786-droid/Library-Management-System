@@ -1,0 +1,7 @@
+book_id,book_name,author,total_quantity,available_quantity
+B001,Python Crash Course,Eric Matthes,5,4
+B002,Automate the Boring Stuff,Al Sweigart,4,4
+B003,Clean Code,Robert C. Martin,5,5
+B004,Fluent Python,Luciano Ramalho,2,0
+B005,Learning Python,Mark Lutz,6,6
+B006,Python Cookbook,David Beazley,3,3
